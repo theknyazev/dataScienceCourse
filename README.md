@@ -11,4 +11,5 @@
 Вот пара отзывов на курс:
 
 ![image](https://github.com/user-attachments/assets/4ca92c64-336d-4998-ac19-58ea3b749b11)
+
 ![image](https://github.com/user-attachments/assets/1d7f853f-b6f5-404d-a044-a93620337c51)
